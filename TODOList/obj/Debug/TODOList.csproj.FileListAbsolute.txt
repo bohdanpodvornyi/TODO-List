@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\TODOList\TODOList\bin\Debug\TODOList.exe.config
+C:\Users\user\source\repos\TODOList\TODOList\bin\Debug\TODOList.exe
+C:\Users\user\source\repos\TODOList\TODOList\bin\Debug\TODOList.pdb
+C:\Users\user\source\repos\TODOList\TODOList\obj\Debug\TODOList.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TODOList\TODOList\obj\Debug\TODOList.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TODOList\TODOList\obj\Debug\TODOList.exe
+C:\Users\user\source\repos\TODOList\TODOList\obj\Debug\TODOList.pdb
